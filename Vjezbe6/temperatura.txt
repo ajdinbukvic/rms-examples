@@ -1,0 +1,2 @@
+Najviša temperatura: 32.00 °C u Sarajevo
+Najniža temperatura: 10.00 °C u Tuzla
